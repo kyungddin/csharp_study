@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\hello_world\\hello_world.csproj",
-      "projectName": "hello_world",
-      "projectPath": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\hello_world\\hello_world.csproj",
+      "projectUniqueName": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\MyApp\\MyApp.csproj",
+      "projectName": "MyApp",
+      "projectPath": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\kyungmin.kim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\hello_world\\obj\\",
+      "outputPath": "C:\\Users\\kyungmin.kim\\Desktop\\github\\csharp_study\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
